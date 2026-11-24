@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-24T20:02:43Z",
+  "generated": "2026-11-24T19:48:28Z",
   "devices": {
     "a04": {
-      "version": "1.6",
-      "version_name": "BROM 1.6 test",
+      "version": "1.5",
+      "version_name": "BROM 1.5",
       "build": "2026-11-24",
-      "url": "http://127.0.0.1:8765/big.bin",
-      "name": "BROM_progress_test.zip",
-      "size": 419430400,
-      "sha256": "6ed5e85372e488807486f4446e2a3a501d319be812e969e3de426db798cc5704",
+      "url": "https://pixeldrain.com/api/file/M1NWfdaM?download",
+      "name": "BROM_v1.5_a04.zip",
+      "size": 3902426119,
+      "sha256": "d8ab1ad1a67f79cf4cd4c5542b24485c066c81e0ba6ef68c9b3c55696a8ff427",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04/1.5.md"
     },
     "a04e": {
-      "version": "1.6",
-      "version_name": "BROM 1.6 test",
+      "version": "1.5",
+      "version_name": "BROM 1.5",
       "build": "2026-11-24",
-      "url": "http://127.0.0.1:8765/big.bin",
-      "name": "BROM_progress_test.zip",
-      "size": 419430400,
-      "sha256": "6ed5e85372e488807486f4446e2a3a501d319be812e969e3de426db798cc5704",
+      "url": "https://pixeldrain.com/api/file/MTVSULpt?download",
+      "name": "BROM_v1.5_a04e.zip",
+      "size": 3870505994,
+      "sha256": "fbb0d3cf9fc66038990d6e71cacc4c679bca834ed3272353c2f49c4aeacb92e8",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04e/1.5.md"
     }
   }
