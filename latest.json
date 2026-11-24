@@ -1,31 +1,31 @@
 {
-  "generated": "2026-11-24T18:16:53Z",
+  "generated": "2026-11-24T18:21:05Z",
   "devices": {
     "a04": {
       "version": "1.5",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04/1.5.md",
       "md5": "",
-      "size": 3902282759,
-      "name": "BROM_v1.5_a04.zip",
+      "size": 485,
+      "name": "test-update.zip",
       "title": "BROM 1.4",
       "subtitle": "",
       "version_name": "BROM 1.5",
       "build": "2026-11-24",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04/1.5.md",
-      "sha256": ""
+      "sha256": "eb566ec6b643514f41b9449e5fb1e446172bc94a0773b6ec100c0b21b1e561e2"
     },
     "a04e": {
       "version": "1.5",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04/1.5.md",
       "md5": "",
-      "size": 3870366730,
-      "name": "BROM_v1.5_a04e.zip",
+      "size": 485,
+      "name": "test-update.zip",
       "title": "BROM 1.4",
       "subtitle": "",
       "version_name": "BROM 1.5",
       "build": "2026-11-24",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04e/1.5.md",
-      "sha256": ""
+      "sha256": "eb566ec6b643514f41b9449e5fb1e446172bc94a0773b6ec100c0b21b1e561e2"
     }
   }
 }
