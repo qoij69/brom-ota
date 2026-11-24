@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-24T17:47:35Z",
+  "generated": "2026-11-24T18:12:01Z",
   "devices": {
     "a04": {
       "version": "1.5",
-      "url": "https://github.com/qoij69/brom-ota/releases/download/v1.5/BROM_v1.5_a04.zip",
+      "url": "",
       "md5": "",
       "size": 3902282759,
       "name": "BROM_v1.5_a04.zip",
@@ -11,12 +11,12 @@
       "subtitle": "",
       "version_name": "BROM 1.5",
       "build": "2026-11-24",
-      "fixed": [],
-      "notes": []
+      "notes_url": "https://cdn.jsdelivr.net/gh/qoij69/brom-ota@main/notes/1.5.md",
+      "sha256": ""
     },
     "a04e": {
       "version": "1.5",
-      "url": "https://github.com/qoij69/brom-ota/releases/download/v1.5/BROM_v1.5_a04e.zip",
+      "url": "",
       "md5": "",
       "size": 3870366730,
       "name": "BROM_v1.5_a04e.zip",
@@ -24,8 +24,8 @@
       "subtitle": "",
       "version_name": "BROM 1.5",
       "build": "2026-11-24",
-      "fixed": [],
-      "notes": []
+      "notes_url": "https://cdn.jsdelivr.net/gh/qoij69/brom-ota@main/notes/1.5.md",
+      "sha256": ""
     }
   }
 }
