@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-24T20:01:24Z",
+  "generated": "2026-11-24T20:02:43Z",
   "devices": {
     "a04": {
       "version": "1.6",
       "version_name": "BROM 1.6 test",
       "build": "2026-11-24",
-      "url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/test/BROM_test_install.zip",
-      "name": "BROM_test_install.zip",
-      "size": 960,
-      "sha256": "bee5ae922cb95c98b1d10ea8325c7af7e5f778ef111baecf3e99ea9ca11e0db4",
+      "url": "http://127.0.0.1:8765/big.bin",
+      "name": "BROM_progress_test.zip",
+      "size": 419430400,
+      "sha256": "6ed5e85372e488807486f4446e2a3a501d319be812e969e3de426db798cc5704",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04/1.5.md"
     },
     "a04e": {
       "version": "1.6",
       "version_name": "BROM 1.6 test",
       "build": "2026-11-24",
-      "url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/test/BROM_test_install.zip",
-      "name": "BROM_test_install.zip",
-      "size": 960,
-      "sha256": "bee5ae922cb95c98b1d10ea8325c7af7e5f778ef111baecf3e99ea9ca11e0db4",
+      "url": "http://127.0.0.1:8765/big.bin",
+      "name": "BROM_progress_test.zip",
+      "size": 419430400,
+      "sha256": "6ed5e85372e488807486f4446e2a3a501d319be812e969e3de426db798cc5704",
       "notes_url": "https://raw.githubusercontent.com/qoij69/brom-ota/refs/heads/main/notes/a04e/1.5.md"
     }
   }
