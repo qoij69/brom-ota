@@ -1,0 +1,51 @@
+{
+  "generated": "2026-11-24T17:56:49Z",
+  "devices": {
+    "a04": {
+      "version": "1.5",
+      "url": "https://github.com/qoij69/brom-ota/releases/download/v1.5/BROM_v1.5_a04.zip",
+      "md5": "",
+      "size": 0,
+      "name": "BROM_v1.5_a04.zip",
+      "title": "BROM 1.5",
+      "subtitle": "Your phone will restart to finish the update.",
+      "version_name": "BROM 1.5",
+      "build": "2026-11-24",
+      "fixed": [
+        "Fixed 1080p video playback (media codec configuration)",
+        "Fixed video recording in the stock Samsung camera",
+        "Fixed blank app previews in Recents",
+        "Fixed A04e first boot (SELinux vendor policy)",
+        "Fixed SystemUI crash and missing navigation bar on A04e"
+      ],
+      "notes": [
+        "Updater now lives in Settings > Software update",
+        "Optimised snapshot memory handling",
+        "Refreshed BROM updater design with dark and light themes"
+      ]
+    },
+    "a04e": {
+      "version": "1.5",
+      "url": "https://github.com/qoij69/brom-ota/releases/download/v1.5/BROM_v1.5_a04e.zip",
+      "md5": "",
+      "size": 0,
+      "name": "BROM_v1.5_a04e.zip",
+      "title": "BROM 1.5",
+      "subtitle": "Your phone will restart to finish the update.",
+      "version_name": "BROM 1.5",
+      "build": "2026-11-24",
+      "fixed": [
+        "Fixed 1080p video playback (media codec configuration)",
+        "Fixed video recording in the stock Samsung camera",
+        "Fixed blank app previews in Recents",
+        "Fixed A04e first boot (SELinux vendor policy)",
+        "Fixed SystemUI crash and missing navigation bar on A04e"
+      ],
+      "notes": [
+        "Updater now lives in Settings > Software update",
+        "Optimised snapshot memory handling",
+        "Refreshed BROM updater design with dark and light themes"
+      ]
+    }
+  }
+}
