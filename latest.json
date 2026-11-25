@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-24T21:04:50Z",
+  "generated": "2026-11-25T11:06:19Z",
   "devices": {
     "a04": {
       "version": "1.6",
       "version_name": "BROM 1.6",
-      "build": "2026-11-24",
-      "url": "https://pixeldrain.com/api/file/cgMpasMT?download",
+      "build": "2026-11-25",
+      "url": "https://huggingface.co/datasets/qoij/brom-ota/resolve/main/BROM_v1.6_a04.zip?download=true",
       "name": "BROM_v1.6_a04.zip",
       "size": 3902434778,
       "sha256": "11e07a3c496daaa17bad4ce6fe28b1a63d3dc90ec90e5986dba402609486c631",
@@ -14,8 +14,8 @@
     "a04e": {
       "version": "1.6",
       "version_name": "BROM 1.6",
-      "build": "2026-11-24",
-      "url": "https://pixeldrain.com/api/file/ymqowRTb?download",
+      "build": "2026-11-25",
+      "url": "https://huggingface.co/datasets/qoij/brom-ota/resolve/main/BROM_v1.6_a04e.zip?download=true",
       "name": "BROM_v1.6_a04e.zip",
       "size": 3870514655,
       "sha256": "416e231e83a678b1a3b9b613c643127c3fe027629c7521f55c878ec8f9154f54",
